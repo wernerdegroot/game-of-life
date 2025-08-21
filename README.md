@@ -30,6 +30,8 @@ void get_next_iteration_should_consider_overcrowding() {
 
 ## Run tests, package and run
 
+Disclaimer: I've designed this to work on *nix-like systems like macOS and Linux. No guarantees are given for Windows.
+
 To run the unit tests, package the application you only need Java 21:
 
 ```shell
